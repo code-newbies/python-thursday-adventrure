@@ -1,5 +1,4 @@
 # player.py
-from modules.hp import HealthPoints
 """ This is the module for all things player related"""
 from modules.locatable import Locatable
 from modules.hp import HealthPoints
