@@ -12,7 +12,7 @@ In particular, we hope to:
 - get experience working on a real app in a collaborative, real-world setting
 
 ## Getting Started
-
+[![Run on Repl.it](https://repl.it/badge/github/code-newbies/python-thursday-adventure)](https://repl.it/github/code-newbies/python-thursday-adventure)
 ### Tech requirements
 You'll need to have installed Python 3 to begin. The TL;DR instructions: head to [python.org](https://www.python.org/downloads/), download and install the latest 3.x.x version for your operating system. For more detailed instructions, links are provided below.
 
