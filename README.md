@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/code-newbies/python-thursday-adventure)](https://repl.it/github/code-newbies/python-thursday-adventure)
+
 # Welcome to the Python Thursday Project! 
 This is the project for the CodeNewbie Python Thursday group. You can join the group [on Slack](https://codenewbie.typeform.com/to/uwsWlZ). To get started, read the following, and if you get stuck, reach out to Phillip (github: @phillipgray, slack: @phillipg) the host.
 
